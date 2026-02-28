@@ -23,12 +23,9 @@
 
 ### 👨‍💻 Developers
 
-|**SIA LEE**|**WOOHEE KWON**|
-|---|---|
-|<img src="https://github.com/samsara1019.png" width="100"/> |<img src="https://github.com/U-hee.png" width="100"/> |
+| **SIA LEE** | **WOOHEE KWON** |
+|:---:|:---:|
+| <img src="https://github.com/samsara1019.png" width="100"/> | <img src="https://github.com/U-hee.png" width="100"/> |
+| samsara1019@naver.com | uhee0112@gmail.com |
 
 ---
-
-### 📫 Contact
-samsara1019@naver.com
-uhee0112@gmail.com
