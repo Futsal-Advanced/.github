@@ -14,9 +14,7 @@
 ---
 
 ### 📦 Projects
-- wgh-server
-- wgh-swift
-- wgh-manager
+- 위고하이
 - rote
 
 ---
